@@ -1,0 +1,14 @@
+D:\AnyCubicK3cloudProject\AnyCubicK3cloudProject\Anycubic.DC.API\bin\Debug\Anycubic.DC.API.dll
+D:\AnyCubicK3cloudProject\AnyCubicK3cloudProject\Anycubic.DC.API\bin\Debug\Anycubic.DC.API.pdb
+D:\AnyCubicK3cloudProject\AnyCubicK3cloudProject\Anycubic.DC.API\obj\Debug\Anycubic.DC.API.csproj.CoreCompileInputs.cache
+D:\AnyCubicK3cloudProject\AnyCubicK3cloudProject\Anycubic.DC.API\obj\Debug\Anycubic.DC.API.dll
+D:\AnyCubicK3cloudProject\AnyCubicK3cloudProject\Anycubic.DC.API\obj\Debug\Anycubic.DC.API.pdb
+D:\AnyCubicK3cloudProject\AnyCubicK3cloudProject\Anycubic.DC.API\obj\Debug\Anycubic.DC.API.csprojAssemblyReference.cache
+D:\AnyCubicK3cloudProject\AnyCubicK3cloudProject\Anycubic.DC.API\obj\Debug\Anycubic.DC.API.csproj.CopyComplete
+C:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\Anycubic.DC.API.dll
+C:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\Anycubic.DC.API.pdb
+E:\开发项目\AnyCubicK3cloudProject\Anycubic.DC.API\obj\Debug\Anycubic.DC.API.csprojAssemblyReference.cache
+E:\开发项目\AnyCubicK3cloudProject\Anycubic.DC.API\obj\Debug\Anycubic.DC.API.csproj.CoreCompileInputs.cache
+E:\开发项目\AnyCubicK3cloudProject\Anycubic.DC.API\obj\Debug\Anycubic.DC.API.csproj.CopyComplete
+E:\开发项目\AnyCubicK3cloudProject\Anycubic.DC.API\obj\Debug\Anycubic.DC.API.dll
+E:\开发项目\AnyCubicK3cloudProject\Anycubic.DC.API\obj\Debug\Anycubic.DC.API.pdb

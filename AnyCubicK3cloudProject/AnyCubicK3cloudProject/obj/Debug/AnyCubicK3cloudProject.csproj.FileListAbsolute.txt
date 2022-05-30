@@ -1,0 +1,10 @@
+D:\AnyCubicK3cloudProject\AnyCubicK3cloudProject\AnyCubicK3cloudProject\obj\Debug\AnyCubicK3cloudProject.csproj.CoreCompileInputs.cache
+D:\AnyCubicK3cloudProject\AnyCubicK3cloudProject\AnyCubicK3cloudProject\obj\Debug\AnyCubicK3cloudProject.csproj.CopyComplete
+D:\AnyCubicK3cloudProject\AnyCubicK3cloudProject\AnyCubicK3cloudProject\obj\Debug\AnyCubicK3cloudProject.dll
+D:\AnyCubicK3cloudProject\AnyCubicK3cloudProject\AnyCubicK3cloudProject\obj\Debug\AnyCubicK3cloudProject.pdb
+C:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\AnyCubicK3cloudProject.dll
+C:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\AnyCubicK3cloudProject.pdb
+E:\开发项目\AnyCubicK3cloudProject\AnyCubicK3cloudProject\obj\Debug\AnyCubicK3cloudProject.csproj.CoreCompileInputs.cache
+E:\开发项目\AnyCubicK3cloudProject\AnyCubicK3cloudProject\obj\Debug\AnyCubicK3cloudProject.csproj.CopyComplete
+E:\开发项目\AnyCubicK3cloudProject\AnyCubicK3cloudProject\obj\Debug\AnyCubicK3cloudProject.dll
+E:\开发项目\AnyCubicK3cloudProject\AnyCubicK3cloudProject\obj\Debug\AnyCubicK3cloudProject.pdb
