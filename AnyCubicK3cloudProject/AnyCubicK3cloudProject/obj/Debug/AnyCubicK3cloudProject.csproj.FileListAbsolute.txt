@@ -8,3 +8,8 @@ E:\开发项目\AnyCubicK3cloudProject\AnyCubicK3cloudProject\obj\Debug\AnyCubic
 E:\开发项目\AnyCubicK3cloudProject\AnyCubicK3cloudProject\obj\Debug\AnyCubicK3cloudProject.csproj.CopyComplete
 E:\开发项目\AnyCubicK3cloudProject\AnyCubicK3cloudProject\obj\Debug\AnyCubicK3cloudProject.dll
 E:\开发项目\AnyCubicK3cloudProject\AnyCubicK3cloudProject\obj\Debug\AnyCubicK3cloudProject.pdb
+E:\ProjectCode\K3cloudAPI\AnyCubicK3cloudProject\AnyCubicK3cloudProject\obj\Debug\AnyCubicK3cloudProject.csprojAssemblyReference.cache
+E:\ProjectCode\K3cloudAPI\AnyCubicK3cloudProject\AnyCubicK3cloudProject\obj\Debug\AnyCubicK3cloudProject.csproj.CoreCompileInputs.cache
+E:\ProjectCode\K3cloudAPI\AnyCubicK3cloudProject\AnyCubicK3cloudProject\obj\Debug\AnyCubicK3cloudProject.csproj.CopyComplete
+E:\ProjectCode\K3cloudAPI\AnyCubicK3cloudProject\AnyCubicK3cloudProject\obj\Debug\AnyCubicK3cloudProject.dll
+E:\ProjectCode\K3cloudAPI\AnyCubicK3cloudProject\AnyCubicK3cloudProject\obj\Debug\AnyCubicK3cloudProject.pdb

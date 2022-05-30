@@ -494,3 +494,7 @@ E:\开发项目\AnyCubicK3cloudProject\UnitTestProject2\bin\Debug\Kingdee.BOS.Fu
 E:\开发项目\AnyCubicK3cloudProject\UnitTestProject2\bin\Debug\Kingdee.BOS.FullTextSearch.ServiceHelper.dll
 E:\开发项目\AnyCubicK3cloudProject\UnitTestProject2\bin\Debug\Kingdee.BOS.FullTextSearch.Contracts.dll
 E:\开发项目\AnyCubicK3cloudProject\UnitTestProject2\bin\Debug\BouncyCastle.Crypto.dll
+E:\ProjectCode\K3cloudAPI\AnyCubicK3cloudProject\UnitTestProject2\obj\Debug\UnitTestProject2.csprojAssemblyReference.cache
+E:\ProjectCode\K3cloudAPI\AnyCubicK3cloudProject\UnitTestProject2\obj\Debug\UnitTestProject2.csproj.CoreCompileInputs.cache
+E:\ProjectCode\K3cloudAPI\AnyCubicK3cloudProject\UnitTestProject2\obj\Debug\UnitTestProject2.dll
+E:\ProjectCode\K3cloudAPI\AnyCubicK3cloudProject\UnitTestProject2\obj\Debug\UnitTestProject2.pdb
