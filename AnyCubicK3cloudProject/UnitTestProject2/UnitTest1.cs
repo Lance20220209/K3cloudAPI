@@ -10,7 +10,7 @@ namespace UnitTestProject2
         [TestMethod]
         public void TestMethod1()
         {
-            //我在vs进行修wo 的订单22
+            //我在vs进行修金蝶修改
             ZWLF_CreateErpOrderTest zWLF_CreateErpOrderTest = new ZWLF_CreateErpOrderTest();
             zWLF_CreateErpOrderTest.CreateErpOrderTest();
 
